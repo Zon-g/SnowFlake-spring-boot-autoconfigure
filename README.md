@@ -8,6 +8,14 @@
 
 ***
 
+#### 更新（Update）
+
+> SnowFlake-spring-boot-autoconfigure和SnowFlake-spring-boot-starter全部迁移至[github:SnowFlake](https://github.com/Zon-g/SnowFlake)或者[gitee:SnowFlake](https://gitee.com/lemonpy/SnowFlake)。
+
+> SnowFlake-spring-boot-autoconfigure and SnowFlake-spring-boot-starter are migrated to [github:SnowFlake](https://github.com/Zon-g/SnowFlake)或者[gitee:SnowFlake](https://gitee.com/lemonpy/SnowFlake).
+
+***
+
 #### 参与贡献（Contribution）
 
 > 1.  Fork 本仓库。
